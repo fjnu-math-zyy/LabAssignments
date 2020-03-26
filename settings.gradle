@@ -1,0 +1,2 @@
+include ':app', ':edittexttest', ':linerlayout', ':constraintlayout'
+rootProject.name='HelloAndroid'
