@@ -1,2 +1,2 @@
-include ':app', ':edittexttest', ':layoutLab', ':constraintlayout'
+include ':app', ':edittexttest', ':layoutLab', ':constraintlayout', ':SimpleAdapter', ':alertdialog', ':menu'
 rootProject.name='HelloAndroid'
